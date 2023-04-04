@@ -1,6 +1,18 @@
 # Ecom_projectv2
 Update to the original file
 
+files in project
+	(tables)
+	product.csv
+	orders.csv
+	ordereditems.csv
+	
+	ecommercedatabase.ipynb
+	ecommercedatabase.py
+	
+	ecomsql.sql
+	
+	
 Goal of the project is to update the code from the first version, explore the data for business case questions in sql server, and display the data in a Tableau and Excel Dashboards.
 
 Step 1. Create the relational database tables in python 
