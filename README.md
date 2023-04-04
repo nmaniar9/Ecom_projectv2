@@ -29,7 +29,14 @@ Step 1. Create the relational database tables in python
 Step 2. Upload tables to SQL Server and decide what business case questions can be answered
     
     1. What are the top sellers? What are the worst
+            select top 5 p.name, sum(quantity_ordered) as total_ordered
+            from ecom2.dbo.ordereditems as oi
+            inner join ecom2.dbo.product as p
+            on oi.sku = p.sku
+            group by p.name
+            order by total_ordered DESC (ASC)
     2. What is the average order size
+    
     3. What products have not sold?
     4. When are most orders placed? (time of year)
     5. What is the profit? profit by time?
