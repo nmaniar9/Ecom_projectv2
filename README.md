@@ -13,8 +13,10 @@ files in project
 	
 	ecomsql.sql
 	
+	Tableau Public link: https://public.tableau.com/app/profile/neil.maniar
 	
-Goal of the project is to update the code from the first version, explore the data for business case questions in sql server, and display the data in a Tableau and Excel Dashboards.
+	
+Goal of the project is to update the code from the first version, explore the data for business case questions in sql server, and display the data in a Tableau Dashboard.
 
 Step 1. Create the relational database tables in python 
     
