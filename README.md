@@ -259,5 +259,5 @@ A full look at all the SQL queries made:
     GROUP BY u.region
     
     
-I created a [Tableau Public](https://public.tableau.com/app/profile/neil.maniar/viz/EcommerceProject_16806687745870/Dashboard2?publish=yes) to visualize the sales and profits of online orders.
+I created a [Tableau Public](https://public.tableau.com/app/profile/neil.maniar/viz/EcommerceProject_16806687745870/Dashboard2?publish=yes) dashboard to visualize the sales and profits of online orders.
 ![image](https://github.com/nmaniar9/Ecom_projectv2/assets/44175458/ca5ea7f2-d822-4dfd-b132-1bf808f0e838)
