@@ -257,3 +257,7 @@ A full look at all the SQL queries made:
     INNER JOIN ecom.dbo.sales as s
     ON os.order_id = s.order_id
     GROUP BY u.region
+    
+    
+I created a [Tableau Public](https://public.tableau.com/app/profile/neil.maniar/viz/EcommerceProject_16806687745870/Dashboard2?publish=yes) to visualize the sales and profits of online orders.
+![image](https://github.com/nmaniar9/Ecom_projectv2/assets/44175458/ca5ea7f2-d822-4dfd-b132-1bf808f0e838)
